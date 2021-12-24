@@ -1,0 +1,15 @@
+.light-purple {
+	background: #bb9cd9;
+}
+
+#references {
+	display: flex;
+	position: absolute;
+	bottom: 9px;
+}
+
+.socialMedia {
+	color: rgba(75, 0, 130, 0.6);
+	font-size: 25px !important;
+	padding-right: 6px;
+}
